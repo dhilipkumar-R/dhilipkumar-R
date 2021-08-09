@@ -55,3 +55,17 @@ const Routes: Routes = [
 })
 export class RoutingModule { }
 
+
+
+
+//<----angular.json------>
+
+//CLI configuration defaults for all projects in the workspace, including configuration options for build, serve, and test tools that the CLI uses, such as TSLint, Karma, and Protractor
+
+//<----package.json------>
+
+//Configures npm package dependencies that are available to all projects in the workspace. See npm documentation
+
+//<----tslint.json------>
+
+//Default TSLint
