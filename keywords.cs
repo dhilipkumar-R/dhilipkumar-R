@@ -62,3 +62,5 @@ class GFG {
 //In const fields, we can only assign values in declaration part.
 //	It cannot be used with static modifiers.
 //	Const is a compile time constant.
+
+public const string USA ="United states of america";
